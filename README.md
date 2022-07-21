@@ -1,1 +1,3 @@
-# verification-and-validation-techniques-in-ai-and-cybersecurity
+# Verification and Validation Techniques in AI and Cybersecurity
+
+Notes and exercises for the exam.
